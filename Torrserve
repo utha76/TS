@@ -79,6 +79,7 @@ Lampa.SettingsApi.addParam({
 
 (function () {
     'use strict';
+Lampa.Platform.tv();
 
     Lampa.Utils.putScriptAsync(['https://lampame.github.io/main/pubtorr/pubtorr.js'], function () { });
 
