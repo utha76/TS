@@ -440,10 +440,9 @@ if(window.appready) startMe();
 
 
 
-/* ====== ПАРСЕР ====== */
-(function () {
+/* ====== ПАРСЕР ====== */(function () {
     'use strict';
 
-    Lampa.Utils.putScriptAsync(['https://bylampa.github.io/jackett.js'], function () { });
+    Lampa.Utils.putScriptAsync(['https://lampame.github.io/main/pubtorr/pubtorr.js'], function () { });
 
 })();
