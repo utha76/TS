@@ -444,6 +444,6 @@ if(window.appready) startMe();
 (function () {
     'use strict';
 
-    Lampa.Utils.putScriptAsync(['https://lampame.github.io/main/pubtorr/pubtorr.js'], function () { });
+    Lampa.Utils.putScriptAsync(['https://bylampa.github.io/jackett.js'], function () { });
 
 })();
