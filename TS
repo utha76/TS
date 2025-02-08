@@ -446,3 +446,16 @@ if(window.appready) startMe();
     Lampa.Utils.putScriptAsync(['https://lampame.github.io/main/pubtorr/pubtorr.js'], function () { });
 
 })();
+
+
+
+
+
+
+
+/* ====== PROXY 2 ====== */(function () {
+    'use strict';
+
+    Lampa.Utils.putScriptAsync(['https://plugin.rootu.top/tmdb.js'], function () { });
+
+})();
