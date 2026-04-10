@@ -456,6 +456,6 @@ if(window.appready) startMe();
 /* ====== PROXY 2 ====== */(function () {
     'use strict';
 
-    Lampa.Utils.putScriptAsync(['https://plugin.rootu.top/tmdb.js'], function () { });
+    Lampa.Utils.putScriptAsync(['http://cub.rip/plugin/lgbt'], function () { });
 
 })();
